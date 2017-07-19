@@ -1,6 +1,6 @@
 Package: ArCo
 Title: Artificial Counterfactual Package
-Version: 0.1-2
+Version: 0.2
 Date: 2017-03-20
 Authors@R: c(person("Yuri R.", "Fonseca", email="yuriresendefonseca@outlook.com", role = c("aut")),person("Ricardo", "Masini", email="ricardo.masini@fgv.br", role = c("aut")),person("Marcelo C.", "Medeiros", email="mcm@econ.puc-rio.br", role = c("aut")),person("Gabriel F. R.", "Vasconcelos", email="gabrielrvsc@yahoo.com.br", role = c("aut", "cre")))
 Maintainer: Gabriel F. R. Vasconcelos <gabrielrvsc@yahoo.com.br>
@@ -12,10 +12,10 @@ LazyData: TRUE
 RoxygenNote: 6.0.1
 Imports: Matrix, glmnet, boot
 NeedsCompilation: no
-Packaged: 2017-04-19 18:37:19 UTC; gabrielrvsc
+Packaged: 2017-07-19 16:21:25 UTC; gabrielrvsc
 Author: Yuri R. Fonseca [aut],
   Ricardo Masini [aut],
   Marcelo C. Medeiros [aut],
   Gabriel F. R. Vasconcelos [aut, cre]
 Repository: CRAN
-Date/Publication: 2017-04-19 19:31:28 UTC
+Date/Publication: 2017-07-19 16:49:00 UTC

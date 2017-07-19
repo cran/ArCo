@@ -1,11 +1,11 @@
-449cf7b8aff0142e11e54890dfea8881 *DESCRIPTION
+8c1ec1503716ca23e55ff973037b27ab *DESCRIPTION
 19246a90e34e687e4c81a282a1d48a82 *LICENSE
 a1460346f578b777eb45a9fd01263c93 *NAMESPACE
 235d1638f26a7ef0ef57a75e58209c69 *R/auxiliary_codes.R
 9999dcac7d69ba6315f9078e59bdb254 *R/datasets.R
 65eb723b8023406bc3dcfd80c5adbbdc *R/estimate_t0.R
-0bc72eba656b55403725207bd6430766 *R/fitArCo.R
-ecbd11303303f13197a3f616a8196f22 *R/panel_to_ArCo_list.R
+e80779a0c953195d3aa40444fde3825e *R/fitArCo.R
+53d2c3d0fdbe252923a414d7a8f6ebba *R/panel_to_ArCo_list.R
 a9b54c551bf204cbf79682b234322551 *R/plot.fitArCo.R
 9bb4b9a0301deef8f3bb3235ec183253 *README.md
 f6002cbf5214351b52c10f5557576cf2 *data/data.q1.rda
@@ -13,8 +13,8 @@ fb2d2daa4c2dad6e5921484c4e7cb34b *data/data.q2.rda
 d2f4a3e31d40f6240c12d6cd67c21e45 *data/inflationNFP.rda
 50ffc1f1347b576ff9ee60de9619b66e *man/data.q1.Rd
 8d32c06a89eedad8a177d1e55c5ae90c *man/data.q2.Rd
-33ad447914575fb4a3625d71d796ba25 *man/estimate_t0.Rd
-f1794e2d6197295808c5cdd4e58d0fe9 *man/fitArCo.Rd
+1f7b86a0c4191b1ee76ef2938944febf *man/estimate_t0.Rd
+6c141cc39bec5583f2b659d437980396 *man/fitArCo.Rd
 c5fc18e13bebce4bd9012bd1587dc55e *man/inflationNFP.Rd
-b3350931519bdf573fd513b6d76de456 *man/panel_to_ArCo_list.Rd
+a8c0746e0647d1ee450730b73d8872e1 *man/panel_to_ArCo_list.Rd
 136076c9d0c3500364e62a86981a3235 *man/plot.fitArCo.Rd
